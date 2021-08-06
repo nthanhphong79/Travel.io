@@ -707,6 +707,10 @@ form button:hover {
     background-color: var(--main-color-hover);
     border: 1px solid var(--main-color);
 }
+/* Footer */
+.author {
+    text-align: center;
+}
 
 /* Responsive */
 @media (max-width: 575px) {
@@ -765,3 +769,4 @@ form button:hover {
     .contact-content-item {
         width: 100%;
 }
+
